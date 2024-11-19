@@ -36,14 +36,6 @@
 
 <br>
 
-<div align="center">
-  <sub>Created by
-  <a href="https://twitter.com/trimstray">trimstray</a> and
-  <a href="https://github.com/trimstray/otseca/graphs/contributors">contributors</a>
-</div>
-
-<br>
-
 ***
 
 ## Introduction
